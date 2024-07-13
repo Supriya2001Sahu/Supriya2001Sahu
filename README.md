@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Supriya Sahu</h1>
-<h3 align="center">A Java Backend developer</h3>
+<h3 align="center">A Backend Developer</h3>
+
+- 🤝 Associate Software Engineer!!
 
 - 🌱 I’m currently learning **Spring Boot, Core Java , REST APIs , Microservices , System Design**
 
